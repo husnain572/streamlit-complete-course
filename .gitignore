@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual Environments
+venv/
+.env/
+.env.bak/
+*.sqlite3
+
+# Streamlit & Data
+.streamlit/
+.ipynb_checkpoints/
+*.csv
+*.xlsx
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
